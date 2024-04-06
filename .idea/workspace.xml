@@ -5,64 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cf59482a-12bf-4d96-8938-638cb6a1336c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ATM/Account.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ATM/Atm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ATM/Card.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ATM/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ATM/Transcation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Address.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DemoTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Restaurant.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/byDirectional/Country.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/byDirectional/State.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/byDirectional/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/classDemo/Doctor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/classDemo/Patient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/classDemo/Teacher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/hasARealtionDemo/Country.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/hasARealtionDemo/District.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/hasARealtionDemo/State.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/hasARealtionDemo/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/metroTicket/Address.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/metroTicket/Entry.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/metroTicket/Exit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/metroTicket/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/metroTicket/Ticket.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/swiggy/Address.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/swiggy/Order.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/swiggy/OrderItems.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/swiggy/Products.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/swiggy/Restaurant.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/swiggy/Reviews.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/swiggy/SwigyTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/swigyApplication/Cart.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/swigyApplication/CustomerInfo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/swigyApplication/Delivery.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/swigyApplication/LoginInfo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/swigyApplication/Products.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/swigyApplication/Restaurant.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ticketBooking/Ticket.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ticketBooking/TicketBookingTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/transaction/Address.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/transaction/CreditCard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/transaction/CreditCardService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/transaction/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/transaction/ProductSpecification.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/transaction/Shop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/transaction/ShopTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/transaction/ShoppingService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/transaction/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/transaction/Transaction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/transaction/UserInfo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/swigyApplications/Dishes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/swigyApplications/Ratings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/swigyApplications/Restaurant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/swigyApplications/RestaurantList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/swigyApplications/SwigyService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/swigyApplications/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -97,6 +46,7 @@
     "Application.Test.executor": "Run",
     "Application.TicketBookingTest.executor": "Run",
     "Application.metroTicket.Test.executor": "Run",
+    "Application.swigyApplications.Test.executor": "Run",
     "Application.transaction.Test.executor": "Run",
     "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
     "Maven.javademotest [clean].executor": "Run",
@@ -109,7 +59,7 @@
     "project.structure.side.proportion": "0.2"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.ShopTest">
+  <component name="RunManager" selected="Application.swigyApplications.Test">
     <configuration name="ShopTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="transaction.ShopTest" />
       <module name="javademotest" />
@@ -136,12 +86,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="hasARealtionDemo.Test" />
+    <configuration name="metroTicket.Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="metroTicket.Test" />
       <module name="javademotest" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="hasARealtionDemo.*" />
+          <option name="PATTERN" value="metroTicket.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -149,12 +99,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="metroTicket.Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="metroTicket.Test" />
+    <configuration name="swigyApplications.Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="swigyApplications.Test" />
       <module name="javademotest" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="metroTicket.*" />
+          <option name="PATTERN" value="swigyApplications.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -177,11 +127,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.swigyApplications.Test" />
         <item itemvalue="Application.ShopTest" />
         <item itemvalue="Application.transaction.Test" />
         <item itemvalue="Application.metroTicket.Test" />
         <item itemvalue="Application.SwigyTest" />
-        <item itemvalue="Application.Test" />
       </list>
     </recent_temporary>
   </component>
