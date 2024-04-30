@@ -2,12 +2,12 @@ package swigyApplications;
 
 import java.util.List;
 
-public class RestaurantList {
+public class RestaurantResponse {
     List<Restaurant>restaurantList;
 
     @Override
     public String toString() {
-        return " \n RestaurantList{" +
+        return " \n RestaurantResponse{" +
                 "restaurantList=" + restaurantList +
                 '}';
     }

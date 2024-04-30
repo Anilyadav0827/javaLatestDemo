@@ -4,14 +4,48 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cf59482a-12bf-4d96-8938-638cb6a1336c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/swigyApplications/Dishes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/swigyApplications/Ratings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/swigyApplications/Restaurant.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/swigyApplications/RestaurantList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/swigyApplications/SwigyService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/swigyApplications/Test.java" afterDir="false" />
+    <list default="true" id="cf59482a-12bf-4d96-8938-638cb6a1336c" name="Changes" comment="swigy">
+      <change afterPath="$PROJECT_DIR$/src/main/java/biPredicateDemo/BiPredicateTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/biPredicateDemo/Payment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/equalsHashCode/Address.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/equalsHashCode/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/equalsHashCode/EqualsHashCodeDemoTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/equalsHashCode/SetDemoTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/functionDemo/FunctionDemoTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/mapDemo/MapDemoTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/mapDemo/Ticket.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/predicateDemo/Payment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/predicateDemo/PredicateTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/predicateDemo/Transcation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/streamsDemo/PredicateTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/streamsDemo/Ticket.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/streamsDemo/TicketService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/swigyApplications/Address.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/swigyApplications/RestaurantService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/swigyApplications/TypesOfLoops.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/swigyApplications/setDemoTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/swigyUsingFunctionsAndConsumers/Address.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/swigyUsingFunctionsAndConsumers/ConsumerDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/swigyUsingFunctionsAndConsumers/Dish.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/swigyUsingFunctionsAndConsumers/Payment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/swigyUsingFunctionsAndConsumers/PhonePayService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/swigyUsingFunctionsAndConsumers/Rating.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/swigyUsingFunctionsAndConsumers/RestauarntService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/swigyUsingFunctionsAndConsumers/Restaurant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/swigyUsingFunctionsAndConsumers/RestaurantResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/swigyUsingFunctionsAndConsumers/SwigyService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/swigyUsingFunctionsAndConsumers/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/swigyUsingFunctionsAndConsumers/UserLoginService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/voteApplicationUsingPredicate/VoteService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/voteApplicationUsingPredicate/VoteTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/voteApplicationUsingPredicate/VoterInfo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/swigyApplications/Dishes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/swigyApplications/Dish.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/swigyApplications/Ratings.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/swigyApplications/Rating.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/swigyApplications/Restaurant.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/swigyApplications/Restaurant.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/swigyApplications/RestaurantList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/swigyApplications/RestaurantResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/swigyApplications/SwigyService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/swigyApplications/SwigyService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/swigyApplications/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/swigyApplications/Test.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,6 +55,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -37,35 +72,46 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Demo.executor": "Run",
-    "Application.DemoTest.executor": "Run",
-    "Application.ShopTest.executor": "Run",
-    "Application.SwigyTest.executor": "Run",
-    "Application.Test.executor": "Run",
-    "Application.TicketBookingTest.executor": "Run",
-    "Application.metroTicket.Test.executor": "Run",
-    "Application.swigyApplications.Test.executor": "Run",
-    "Application.transaction.Test.executor": "Run",
-    "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
-    "Maven.javademotest [clean].executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.2"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.BiPredicateTest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Demo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DemoTest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.EqualsHashCodeDemoTest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FunctionDemoTest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MapDemoTest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PredicateTest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SetDemoTest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ShopTest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SwigyTest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Test.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TicketBookingTest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TypesOfLoops.executor&quot;: &quot;Run&quot;,
+    &quot;Application.VoteTest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.metroTicket.Test.executor&quot;: &quot;Run&quot;,
+    &quot;Application.streamsDemo.PredicateTest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.swigyApplications.Test.executor&quot;: &quot;Run&quot;,
+    &quot;Application.swigyUsingFunctions.Test.executor&quot;: &quot;Run&quot;,
+    &quot;Application.swigyUsingFunctionsAndConsumers.Test.executor&quot;: &quot;Run&quot;,
+    &quot;Application.transaction.Test.executor&quot;: &quot;Run&quot;,
+    &quot;Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.javademotest [clean].executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.swigyApplications.Test">
-    <configuration name="ShopTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="transaction.ShopTest" />
+}</component>
+  <component name="RunManager" selected="Application.swigyUsingFunctionsAndConsumers.Test">
+    <configuration name="FunctionDemoTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="functionDemo.FunctionDemoTest" />
       <module name="javademotest" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="transaction.*" />
+          <option name="PATTERN" value="functionDemo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -73,12 +119,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SwigyTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="swiggy.SwigyTest" />
+    <configuration name="MapDemoTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="mapDemo.MapDemoTest" />
       <module name="javademotest" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="swiggy.*" />
+          <option name="PATTERN" value="mapDemo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -86,20 +132,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="metroTicket.Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="metroTicket.Test" />
-      <module name="javademotest" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="metroTicket.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="swigyApplications.Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="swigyApplications.Test" />
       <module name="javademotest" />
       <extension name="coverage">
@@ -112,12 +145,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="transaction.Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="transaction.Test" />
+    <configuration name="VoteTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="voteApplicationUsingPredicate.VoteTest" />
       <module name="javademotest" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="transaction.*" />
+          <option name="PATTERN" value="voteApplicationUsingPredicate.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="swigyUsingFunctionsAndConsumers.Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="swigyUsingFunctionsAndConsumers.Test" />
+      <module name="javademotest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="swigyUsingFunctionsAndConsumers.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -127,11 +173,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.swigyApplications.Test" />
-        <item itemvalue="Application.ShopTest" />
-        <item itemvalue="Application.transaction.Test" />
-        <item itemvalue="Application.metroTicket.Test" />
-        <item itemvalue="Application.SwigyTest" />
+        <item itemvalue="Application.swigyUsingFunctionsAndConsumers.Test" />
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.FunctionDemoTest" />
+        <item itemvalue="Application.MapDemoTest" />
+        <item itemvalue="Application.VoteTest" />
       </list>
     </recent_temporary>
   </component>
@@ -151,7 +197,20 @@
       <option name="presentableId" value="Default" />
       <updated>1711431546650</updated>
     </task>
+    <task id="LOCAL-00001" summary="swigy">
+      <option name="closed" value="true" />
+      <created>1712393242564</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1712393242564</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="swigy" />
+    <option name="LAST_COMMIT_MESSAGE" value="swigy" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -191,6 +250,31 @@
           <line>58</line>
           <option name="timeStamp" value="14" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/swigyApplications/Test.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/swigyApplications/Test.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/voteApplicationUsingPredicate/VoteService.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/voteApplicationUsingPredicate/VoteService.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/voteApplicationUsingPredicate/VoteTest.java</url>
+          <line>36</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/main/java/metroTicket/Test.java</url>
           <line>5</line>
@@ -208,6 +292,24 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/swigyApplications/Test.java</url>
+          <line>5</line>
+          <properties class="swigyApplications.Test" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/voteApplicationUsingPredicate/VoteService.java</url>
+          <line>10</line>
+          <properties class="voteApplicationUsingPredicate.VoteService">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="21" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
